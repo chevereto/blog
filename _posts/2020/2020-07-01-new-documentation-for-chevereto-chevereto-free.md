@@ -1,12 +1,12 @@
 ---
-title: 'New documentation for Chevereto &#038; Chevereto Free'
 date: 2020-07-01T18:17:56+00:00
+title: New documentation for Chevereto & Chevereto Free
 author: Rodolfo Berrios
-excerpt: Introducing VuePress powered documentation
+summary: Introducing VuePress powered documentation
 permalink: /new-documentation-for-chevereto-chevereto-free/
-categories:
-  - News
+featuredImage: /photos/2021/laptop-3173613.png
 tags:
+  - news
   - docs
 ---
 The documentation has been improved, you can check it right now at: [v3-docs.chevereto.com](https://v3-docs.chevereto.com/), now automatically sourced from [chevereto/docs](https://github.com/chevereto/docs) so it is fresh as it gets.

@@ -1,28 +1,33 @@
 ---
-title: Introducing upload plugin
 date: 2017-09-24T02:45:58+00:00
+title: Introducing upload plugin
 author: Rodolfo Berrios
+summary: A new way to use Chevereto.
 permalink: /introducing-upload-plugin/
 dsq_thread_id:
   - "6166184322"
 dsq_needs_sync:
   - "1"
-image: /wp-content/uploads/2017/09/pup_display-825x510.png
-categories:
-  - New features
+featuredImage: /photos/2017/pup_display.png
 tags:
   - pup
+  - features
   - upload plugin
 ---
+
 The new upload plugin allows any website to **easily provide image uploading** via Chevereto. It installs quickly, it supports any website and it features seamless support for the most popular forum software like **Discourse**, **XenForo**, **IP.Board**, **vBulletin**, **phpBB**, **SMF** and even more.
 
 It works by detecting user-editable content —like post reply boxes— and then placing a button that when you click on, it will pop-up a window that will allow visitors to upload images to a Chevereto website and it will auto-insert the embedded codes, all in one step.
 
 Since it works using a pop-up window, the plugin is referenced as **PUP** which stands for pop-up upload plugin.
 
-[<img loading="lazy" class="wp-image-403 size-full" src="https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1.jpg" alt="" width="2333" height="975" srcset="https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1.jpg 2333w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1-300x125.jpg 300w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1-768x321.jpg 768w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1-1024x428.jpg 1024w" sizes="(max-width: 2333px) 100vw, 2333px" />](https://chevereto.com/blog/wp-content/uploads/2017/09/pup_palette_red-1.jpg)
+![PUP Palette red](/photos/2017/pup_palette_red-1.jpg)
 
-> _An example of PUP (red color palette) in a basic <textarea> editor box._
+```html
+<script async src="//demo.chevereto.com/sdk/pup.js" data-url="https://demo.chevereto.com/upload" data-palette="red"></script>
+```
+
+> _An example of PUP (red color palette) in a basic `<textarea>` editor box._
 
 ### Supported software
 
@@ -42,7 +47,7 @@ PUP works with a wide range of forum software including:
 
 For selected vendors, the plugin will fit the button to the target editor toolbar, achieving an absolutely unobtrusive experience and it won't break the UI at all. It also sets which embeds codes should be used depending on the target editor (Markdown, BBCode or HTML) and it will listen to live events so it will work even on dynamically generated content.
 
-[<img loading="lazy" class="size-full wp-image-407" src="https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse.jpg" alt="" width="1429" height="470" srcset="https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse.jpg 1429w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse-300x99.jpg 300w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse-768x253.jpg 768w, https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse-1024x337.jpg 1024w" sizes="(max-width: 1429px) 100vw, 1429px" />](https://chevereto.com/blog/wp-content/uploads/2017/09/pup_discourse.jpg)
+![PUP Discourse](/photos/2017/pup_discourse.jpg)
 
 > _Discourse editor box showing the cloud upload icon added by PUP._
 
@@ -52,13 +57,11 @@ Additional vendors may be supported via basic integration (non-toolbar), meaning
 
 The plugin is designed to require **zero configuration** but still, you can configure everything. You can use your own HTML, CSS, palettes, language, observers, everything. If that's not enough, you can even place the button manually and indicate the target editor you want to bind. Talking about customization, don't worry to touch the code at all. Everything has been designed to be configured directly as simple data-attributes on the plugin insertion code.
 
-All these instructions are now included in every installation and for the basic options, end-users will only need to toggle some switches and **Chevereto will generate the insertion code**. Here, check this live example: [Upload plugin &#8211; Chevereto demo](https://demo.chevereto.com/plugin). For those who need advanced customization, there is a [complete documentation](https://chevereto.com/docs/pup) available.
+All these instructions are now included in every installation and for the basic options, end-users will only need to toggle some switches and **Chevereto will generate the insertion code**. Here, check this live example: [Upload plugin &#8211; Chevereto demo](https://demo.chevereto.com/plugin). For those who need advanced customization, there is a [complete documentation](https://v3-docs.chevereto.com/features/integrations/pup.html) available.
 
 ## Core features
 
 The plugin has been built using native JavaScript and is very lightweight —about 6 KB gzipped— and it doesn't require additional libraries or server dependencies. It works asynchronous, supports multiple instances, it always shows a perfect sized pop-up window on center and it uses **postMessage** to safely establish cross-site communication. The code is all wrapped inside a closure so it won't mess with any JavaScript you may have and it prevents anyone else from tempering the plugin variables.
-
-If you want to learn more about this you should read [about all it](https://chevereto.com/docs/pup#core-features).
 
 ## Who should use it?
 

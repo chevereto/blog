@@ -1,11 +1,13 @@
 ---
-title: Hello, Chevereto V4
 date: 2021-04-30T23:28:34+00:00
+title: Hello, Chevereto V4
 author: Rodolfo Berrios
+summary: Next generation media sharing.
 permalink: /hello-chevereto-v4/
-categories:
-  - News
-  - Upcoming
+featuredImage: /photos/2021/breno-machado-in9-n0JwgZ0-unsplash.jpg
+tags:
+  - news
+  - upcoming
 ---
 Is about time to reinvigorate Chevereto, I took some time to build our new foundations and you waited patiently. I'm glad, thanks for your support. It's payday!
 

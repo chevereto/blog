@@ -1,11 +1,12 @@
 ---
-title: Chevereto 13th anniversary
 date: 2020-07-07T15:10:20+00:00
+title: Chevereto 13th anniversary
 author: Rodolfo Berrios
+summary: Big Picture.
 permalink: /chevereto-13th-anniversary/
-categories:
-  - Upcoming
+featuredImage: /photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg
 tags:
+  - upcoming
   - announcement
 ---
 Within the years, the use case for Chevereto has been shifted a lot and it has evolved to a point where it has a very distinctive appeal shaped by my way of interpreting the user needs around it. Chevereto turns 13 with a install base of somewhere near **15,000 public installations** and I'm still just one guy in development.

@@ -1,11 +1,12 @@
 ---
-title: Chevereto 14th anniversary
 date: 2021-07-07T14:58:35+00:00
+title: Chevereto 14th anniversary
 author: Rodolfo Berrios
+summary: Hello cloud, application and more!
 permalink: /chevereto-14th-anniversary/
-categories:
-  - Upcoming
+featuredImage: /photos/2021/clouds-4040132_1280.jpg
 tags:
+  - upcoming
   - announcement
 ---
 Chevereto turns 14 and for this anniversary we got many neat announcements and project updates to share.
