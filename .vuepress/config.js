@@ -67,7 +67,7 @@ module.exports = {
                     link: 'mailto:inbox@chevereto.com',
                 },
                 {
-                    type: 'web',
+                    type: 'globe',
                     link: 'https://chevereto.com',
                 },
             ],
