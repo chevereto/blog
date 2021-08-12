@@ -1,7 +1,7 @@
 module.exports = {
-    title: 'Rodolfo Berrios',
+    title: 'Chevereto Blog',
     base: '/',
-    description: 'Rodolfo blogging since 2012.',
+    description: 'All about Chevereto updates, development and more.',
     theme: require.resolve('../../'),
     head: [
         ['link', {
@@ -50,25 +50,25 @@ module.exports = {
         pwa: true,
         authors: [
             {
-                name: 'Rodolfo',
+                name: 'Rodolfo Berrios',
                 avatar: '/avatars/rodolfo.jpg',
                 link: 'https://rodolfoberrios.com/',
-                linktext: 'Stalk me',
+                linktext: 'Rodolfo',
             },
         ],
         footer: {
             contact: [
                 {
                     type: 'github',
-                    link: 'https://github.com/rodber',
+                    link: 'https://github.com/chevereto',
                 },
                 {
                     type: 'mail',
-                    link: 'mailto:inbox@rodolfoberrios.com',
+                    link: 'mailto:inbox@chevereto.com',
                 },
                 {
                     type: 'web',
-                    link: 'https://rodolfoberrios.com',
+                    link: 'https://chevereto.com',
                 },
             ],
             copyright: [
@@ -79,7 +79,7 @@ module.exports = {
             ],
         },
         sitemap: {
-            hostname: 'https://rodolfo.is/'
+            hostname: 'https://blog.chevereto.com/'
         },
         // comment: {
         //   service: 'disqus',
@@ -89,7 +89,7 @@ module.exports = {
         //   endpoint: '/'
         // },
         feed: {
-            canonical_base: 'https://rodolfo.is/',
+            canonical_base: 'https://blog.chevereto.com/',
             sort: (entries) => reverse(sortBy(entries, 'date')),
         },
         smoothScroll: true
