@@ -9,11 +9,11 @@ tags:
   - upcoming
   - announcement
 ---
-Within the years, the use case for Chevereto has been shifted a lot and it has evolved to a point where it has a very distinctive appeal shaped by my way of interpreting the user needs around it. Chevereto turns 13 with a install base of somewhere near **15,000 public installations** and I'm still just one guy in development.
+Within the years the use case for Chevereto has been shifted a lot and it has evolved to a point where it has a very distinctive appeal shaped by my way of interpreting the user needs around it. Chevereto turns 13 with an install base of near **15,000 public installations** and I'm one guy in development.
 
 My goal with Chevereto is to turn it into a distributed project around the need of self-hosting media content. I want to turn Chevereto into a large media sharing solution, on pair with the same offering of closed services.
 
-I also want to stop being one guy behind this. To achieve that, I've been working for years in what I'm about to announce.
+I want to stop being one guy behind this. To achieve that, I've been working for years in what I'm about to announce.
 
 Today, I celebrate another year of Chevereto by announcing the initial development of the next major version: **Chevereto V4**.
 
@@ -21,37 +21,29 @@ Today, I celebrate another year of Chevereto by announcing the initial developme
 
 During the last few years V3 has been pushed to maturity to allow the preparation of its replacement, a process that I started in May 2018 with the beginning of my own framework project.
 
-I'm a self-taught developer, my learning process is by building stuff over and over until I'm happy with the outcome. There was no reasonable way to improve Chevereto without improving my own skills so the most challenging stuff that I could think was to develop a framework. I also started using Linux on the desktop as my goal also requires serious devops skills.
+I'm a self-taught developer, my learning process is by building over and over until I'm happy with the outcome. There was no reasonable way to improve Chevereto without improving my own skills so the most challenging stuff that I could think was to develop a framework. I also started using Linux on the desktop as my goal also requires serious dev-ops skills.
 
-As I've learned that most of my development journey will be very lonely, I focused in creating a clean framework that will allow me to grow for decades with a minimal human footprint required, with the artifacts that will allow me to provide the tooling needed to easily extend my stuff. That way, I will stop being the only gateway to add new stuff to Chevereto, allowing it to grow at wild.
+As I've learned that most of my development journey will be lonely, I focused in creating a clean framework that will allow me to grow for decades with a minimal human footprint required, with the artifacts that will allow me to provide the tooling needed to extend my software. That way, I will stop being the only gateway to add new stuff to Chevereto  allowing it to grow at wild.
 
 ### Sell me the thing!
 
-Actually no, it is still not reasonable to consider the framework for a production project at this time. It should be useful for those wanting to pimp up their Chevereto websites with the V4 awesomeness.
+Actually no. It is not reasonable to consider the framework for a production project at this time. It should be useful for those wanting to pimp up their Chevereto websites with the V4 awesomeness.
 
-> 👍🏾 The [Chevere](https://chevere.org/) Framework is now in late stage and is already available for testing.
+> 👍🏾 The [Chevere](https://chevere.org/) Framework is now in late stage and is available for testing.
 
-By getting used to the framework not only you will be able to create addons for Chevereto, but your own totally unrelated softwares.
+By getting used to the framework you will be able to create addons for Chevereto and your own software.
 
-## Chevereto V4: &#8220;Big Picture&#8221; is now under development
+## Chevereto V4: "Big Picture" is now under development
 
-Official development for Chevereto V4 has been fixed for this date. It turns out that nowadays I'm using the framework for internal systems and I feel that is about time to star working in actual application implementation. That way I can also add more examples.
+Development for Chevereto V4 has been fixed for this date. Nowadays I'm using the Chevere framework for internal systems and I feel that is about time to star working in the Chevereto application implementation.
 
-V4 changes everything so I named it &#8220;big picture&#8221;. The name is awesome, because I can name versioning like &#8220;biggie pic&#8221;, &#8220;foto grande&#8221;, &#8220;La Bomba 4&#8221;, and so on, just like the cools kids.
+V4 changes everything so I named it "big picture". The name is awesome, because I can name versioning like "biggie pic", "foto grande", "La Bomba 4".
 
-This version will carry a huge shift in the project by introducing a new distributed application architecture, with support for third-party addons, and a headless API. It also changes to a common extensible Open Source base edition, for which I will create an store to ease the process of delivering code for Chevereto.
-
-> Just like Envato! But without eating developers a small fortune. I'm just a guy remember? 😘 I don't need that much to be fine.
-
-The development is live now at [chevereto/chevereto](https://github.com/chevereto/chevereto/) where you can see the ongoing progress and contribute with it.
+This version will carry a huge shift in the project by introducing a distributed application architecture, with support for third-party addons, and a headless API. It changes looking forward to evolve Chevereto later to a common extensible Open Source base edition, for which I will create a store to ease the process of delivering code for Chevereto.
 
 ### ETA
 
-Based in my horrible way to measure time, I could say that &#8220;it will take a while&#8221; to have it ready for being used in real projects. I guess that the time needed only to complete the replacement of V3 to V4 could take up to 24 months. Of course, this is accounting all what V3 currently does.
-
-The base edition, similar to the current Chevereto-Free feature set, should be available within 12 months being very optimistical and remembering that is just the basic feature set.
-
-No surprises here, it is a 13 year old project, is quite big for one person.
+Based in my horrible way to measure time, I could say that "it will take a while" to have it ready for being used in real projects. The time needed to complete the replacement of V3 to V4 could take up to 24 months.
 
 > **Please note** that I'm assuming zero collaboration in my timing measurements. It will be ready way faster if I more people can help me out!
 
@@ -86,7 +78,7 @@ You can contribute to my work in many different ways.
 * Telling others about it
 * Donating (money, servers, devices or any asset)
 
-I appreciate everything, for real. Now in _pandemia tiempos_ help the indie devs.
+I appreciate everything. Now in _pandemia tiempos_ help the indie devs.
 
 ## Thank You!
 
