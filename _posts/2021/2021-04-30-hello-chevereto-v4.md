@@ -33,7 +33,7 @@ The release of Chevereto V4 (*macanudo*) will happen in September 2021 and it ev
 
 _Read [Chevereto V4.0 &#8220;macanudo&#8221; announcement](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/)._
 
-Macanudo will feature extended social login support and user based API. This is a huge change as it makes the default user interface exactly that: A default, enabling your users to use your Chevereto installation from any compatible API client.
+*Macanudo* will feature extended social login support and user based API. This is a huge change as it makes the default user interface exactly that: A default, enabling your users to use your Chevereto installation from any compatible API client.
 
 ## Chevereto V4 release cycle
 

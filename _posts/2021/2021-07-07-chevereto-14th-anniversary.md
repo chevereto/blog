@@ -51,9 +51,9 @@ This is still green, we know that the market isn't ready but the exceptional res
 
 ## Introducing Chevereto.cloud
 
-The special announcement this year is [Chevereto.cloud](https://chevereto.com/cloud), our own hosted offering for Chevereto. We are acepting [pre-registrations](https://forms.gle/PTKDXEXL3Rca3LjV7) for it.
+The special announcement this year is [Chevereto.cloud](https://chevereto.com/cloud), our own hosted offering for Chevereto. We are accepting [pre-registrations](https://forms.gle/PTKDXEXL3Rca3LjV7) for it.
 
-With Chevereto cloud we want to make Chevereto more accessible by erasing the server hassles and the technical knowledge barrier required to enjoy our software.
+With Chevereto cloud we want to make Chevereto accessible by erasing the server hassles and the technical knowledge barrier required to enjoy our software.
 
 ## Mobile application
 
