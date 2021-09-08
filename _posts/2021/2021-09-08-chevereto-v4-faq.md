@@ -10,7 +10,7 @@ tags:
 ---
 Chevereto V4 is around the corner and while this release has caught the attention of many people, lots of misinformation have been circulating about it among user groups.
 
-We want to address these concerns in this entry, but if we miss something you can contact us to `inbox@chevereto.com`.
+We want to address these concerns in this entry, but if we miss something you can ask in the [community announcement](https://chevereto.com/community/threads/chevereto-v4-faq.13752/). If you aren't a customer refer to our [contact page](https://chevereto.com/contact).
 
 ## When it will be released?
 
@@ -22,7 +22,7 @@ Production release (V4.0.0) will be available between 2021-12 ~ 2022-03. Note th
 
 You shouldn't. Let's us coin the well-know "use it under your own risk".
 
-Beta is for testing purposes and to iterate the system design based on user feedback. To detect system compatibility issues inherent of a system which run on-premises. We will help our beta users when encountering issues, but we won't include support for beta issues affecting production systems.
+Beta is for testing purposes and to iterate the system design based on user feedback. To detect system compatibility issues inherent of a system which run on-premises. We will help our beta users when encountering issues, but we won't be able to include support for beta issues affecting production systems.
 
 ## How can I access to it?
 
@@ -36,9 +36,9 @@ This license grants access to:
 
 ## How many licenses I will require?
 
-One license per root-domain (as `domain.com`).
+One license per root-domain as `domain.com`.
 
-As V4 beta won't be ready for production systems we won't enforce domain license binding until we ship the production grade releases.
+Chevereto V4 beta won't be ready for production systems we won't enforce domain license binding until we ship the production grade releases.
 
 ## Which are the system requirements?
 
