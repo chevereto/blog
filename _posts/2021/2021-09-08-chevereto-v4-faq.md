@@ -30,8 +30,9 @@ Chevereto V4 requires a paid license to get access to it which you can purchase 
 
 This license grants access to:
 
-* Unencrypted source code access to our private GitHub repository for the entire major version cycle. Including access to milestones, tags, issues and discussions where you and other users will engage with the dev team.
-* Access to the Chevereto community.
+* Unencrypted source code access to our software.
+* Participate in the Chevereto community.
+* GitHub private repository access, including milestones, tags, issues and discussions where you and other users can engage with the dev team.
 * Software support and additional supporting services.
 
 ## How many licenses I will require?
