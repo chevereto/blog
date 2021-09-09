@@ -22,7 +22,7 @@ Production release (V4.0.0) will be available between 2021-12 ~ 2022-03. Note th
 
 You shouldn't. Let's us coin the well-know "use it under your own risk".
 
-Beta is for testing purposes and to iterate the system design based on user feedback. To detect system compatibility issues inherent of a system which run on-premises. We will help our beta users when encountering issues, but we won't be able to include support for beta issues affecting production systems.
+Chevereto V4 beta is for testing purposes and to iterate the system design based on user feedback. It will take a while to get V4 beta usable as our focus at this stage is to detect system compatibility issues inherent of a system which run on-premises. We will help our beta users when encountering issues, but we won't include support for beta issues affecting production systems.
 
 ## How can I access to it?
 
