@@ -41,16 +41,16 @@ All V4 releases will be named and will get released each 6 months (March and Sep
 
 Chevereto V4.X updates will be about improving on everything and I'm confirming five revisions for this major version.
 
-| Version                                                                                    | Date    | Code name |
-| ------------------------------------------------------------------------------------------ | ------- | --------- |
-| [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | 2021-09 | macanudo  |
-| [4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | 2022-03 | supremo   |
-| 4.2                                                                                        | 2022-09 | _n/a_     |
-| 4.3                                                                                        | 2023-03 | _n/a_     |
-| 4.4                                                                                        | 2023-09 | _n/a_     |
-| 4.5                                                                                        | 2024-03 | _n/a_     |
+| Version                                                                                    | Date    | Code name   |
+| ------------------------------------------------------------------------------------------ | ------- | ----------- |
+| [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | 2021-09 | macanudo    |
+| [4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | 2022-03 | supremo     |
+| 4.2                                                                                        | 2022-09 | *pulento*   |
+| 4.3                                                                                        | 2023-03 | *bacan*     |
+| 4.4                                                                                        | 2023-09 | *magnifico* |
+| 4.5                                                                                        | 2024-03 | *superior*  |
 
-> (n/a) some release code names haven't being assigned yet.
+> (n/a) some release code names haven't being confirmed yet.
 
 ## Chevereto V4 licensing
 
