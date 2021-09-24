@@ -9,7 +9,7 @@ tags:
   - release
 ---
 
-> Chevereto Macanudo beta is set to be released on 2021-09-30. It's beta process is scheduled to last at least 3 months.
+> Chevereto Macanudo beta is set to be released on 2021-09-30. Beta process is scheduled to last at least 3 months.
 
 Chevereto's fourth major release is named *macanudo* which is a [hispanic word](https://dle.rae.es/macanudo) that means "Well, magnificent, extraordinary, excellent, in a material and moral sense".
 
