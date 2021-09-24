@@ -21,13 +21,13 @@ With Macanudo we are changing our software development philosophy towards an unp
 
 ### DRM free
 
-Since Chevereto V2, all the user downloaded source code contained  a mechanism to identify those who take our code and re-distribute it without our permission.
+Since [Chevereto V2](https://releases.chevereto.com/2.X/), all the user downloaded source code contained  a mechanism to identify those who take our code and re-distribute it without our permission.
 
 For Chevereto V4 our source code won't be anymore labeled with any user identification. The source code will be free of all these identification bits (known as DRM) and we will let users to determine who access to our source code as we will drive our value towards our large community and our supporting services.
 
 ### Beta as the standard
 
-With Chevereto V3 we experimented with invite-only betas which worked great for us.
+With [Chevereto V3](https://releases.chevereto.com/3.X/) we experimented with invite-only betas which worked great for us.
 
 That's why for Chevereto V4, beta will be available for all customers and it will be the standard for all upcoming releases. Beta releases showed us the huge value of early testing which is crucial for our type of software as we are talking about a system that runs in any machine, under a myriad of different configurations.
 
@@ -43,7 +43,7 @@ With Macanudo we are also going to deliver ready-to-use DRM-free container image
 
 ### Default development infra
 
-With Coqueto we introduced support for Docker as a way to provide a base standard for running our software. We did this because the software stack required for Chevereto is not trivial to manage and that's why we took charge of providing it officially.
+With [Coqueto](https://releases.chevereto.com/3.X/3.20/3.20.0.html) we introduced support for Docker as a way to provide a base standard for running our software. We did this because the software stack required for Chevereto is not trivial to manage and that's why we took charge of providing it officially.
 
 With Macanudo we are taking this further, by making Docker our default infra for all development purposes. Our new development standard enables us to provide users with an easier way to detect when a conflict happens in the server nor the application.
 
@@ -55,7 +55,7 @@ Macanudo introduces the biggest code update ever in Chevereto and all files, fun
 
 With Macanudo Chevereto embraces PHP 8 and it relies in our high-quality flagship [Chevere framework](https://chevere.org) for providing a neat path for evolving all the application code into our new application architecture.
 
-We invested from the ground up in a complete new framework tailored for the high customization needs of our users, and we will progresive delivering updates for our massive codebase.
+We invested from the ground up in a complete new framework tailored for the high customization needs of our users, and we will progressive delivering updates for our massive codebase.
 
 ## New features
 
@@ -73,9 +73,9 @@ There's no limits in its application, it all depends on your imagination.
 
 In Macanudo we are replacing our old fashioned third-party login implementation with [Hybridauth](https://github.com/hybridauth/hybridauth).
 
-Macanudo provides more signup alternatives than ever, enabling users all over the world to enjoy the quickness of social login with support for up to 36 auth providers including OpenID, Mail.ru, Yandex, Twitch, QQ and Discord.
+Macanudo provides more sign up alternatives than ever, enabling users all over the world to enjoy the quickness of social login with support for up to 36 auth providers including OpenID, Mail.ru, Yandex, Twitch, QQ and Discord.
 
-## Final thoughts
+## Closing words
 
 This is a huge change, one that we have been preparing since 2018-05 and it is a reality thanks to the support of all who make Chevereto possible: Our users.
 
