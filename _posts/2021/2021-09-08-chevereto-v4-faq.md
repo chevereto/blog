@@ -28,12 +28,12 @@ Chevereto V4.0 beta is for testing purposes and to iterate the system design bas
 
 You can purchase a Chevereto V4 license at [chevereto.com/pricing](https://chevereto.com/pricing).
 
-There's a special intro offer until 2021-12-31: License purchase includes (1) V3 license and (1) V4. That's 2 different licenses.
+There's a special intro offer until 2021-12-31: License purchase includes (1) V3 license and (1) V4 license. That's 2 different licenses.
 
 ### 🤴 Existing customers
 
 * 🎁 Purchases made from 2020-09-01: There's a license redeem option.
-* 🗿 Purchases made before 2020-09-01: There's a license upgrade option.
+* 🗿 Purchases made before 2020-09-01: There will be a license upgrade option (coming soon).
 
 License redeem and upgrade options will be available at [panel/license](https://chevereto.com/panel/license) until 2021-12-31.
 
