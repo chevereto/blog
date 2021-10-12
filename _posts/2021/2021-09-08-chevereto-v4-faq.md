@@ -28,24 +28,34 @@ Chevereto V4.0 beta is for testing purposes and to iterate the system design bas
 
 You can purchase a Chevereto V4 license at [chevereto.com/pricing](https://chevereto.com/pricing).
 
-There's a special intro offer until 2021-12-31: License purchase includes (1) V3 license and (1) V4 license. That's 2 different licenses.
+There's a special offering until 2021-12-31: License purchase includes (1) V3 license and (1) V4 license. That's 2 different licenses.
 
 ### 🤴 Existing customers
 
 * 🎁 Purchases made from 2020-09-01: There's a license redeem option.
-* 🗿 Purchases made before 2020-09-01: There will be a license upgrade option (coming soon).
+* 🗿 Purchases made before 2020-09-01: There's a license upgrade option.
 
-License redeem and upgrade options will be available at [panel/license](https://chevereto.com/panel/license) until 2021-12-31.
+License redeem and upgrade options will be available at [chevereto.com/panel/license](https://chevereto.com/panel/license) until 2021-12-31.
 
 ## 🤑 How many licenses I will require?
 
 One license per root-domain as `domain.com`.
 
-**Note:** As Chevereto V4 beta won't be ready for production systems we won't enforce domain license binding until we ship the production grade releases.
+**Note:** We won't enforce domain license binding until we ship the production grade releases.
+
+## 🏖 Where can I see a demo?
+
+The Chevereto demo (V3.20) is available at [demo.chevereto.com](https://demo.chevereto.com).
+
+**Note:** Chevereto V4.0 looks the same as V3.20, but the source code and quality standards are different.
 
 ## 🤖 Which are the system requirements?
 
 Chevereto V4 inherits all the [Chevereto V3 requirements](https://v3-docs.chevereto.com/setup/server/requirements.html) but under PHP 8.0.
+
+## 📦 How to install V4?
+
+Refer to [V4 Installation instructions](https://v4-docs.chevereto.com/get-started/installation.html).
 
 ## 🆙 How to upgrade my V3 installation?
 
@@ -53,7 +63,7 @@ Upgrade from V3.20 will be available after releasing the production grade releas
 
 **Note:** Chevereto V4.0 uses the same database and public upload paths as V3.20.
 
-## 🔗 How does the domain license binding works?
+## 🔗 What about domain license binding?
 
 It works similar to how DKIM signs email delivery.
 
