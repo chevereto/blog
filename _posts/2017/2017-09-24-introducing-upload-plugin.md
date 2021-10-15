@@ -8,7 +8,7 @@ dsq_thread_id:
   - "6166184322"
 dsq_needs_sync:
   - "1"
-featuredImage: /photos/2017/pup_display.png
+image: /photos/2017/pup_display.png
 tags:
   - pup
   - features

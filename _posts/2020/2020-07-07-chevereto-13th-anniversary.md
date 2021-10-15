@@ -4,7 +4,7 @@ title: Chevereto 13th anniversary
 author: Rodolfo Berrios
 summary: Big Picture.
 permalink: /chevereto-13th-anniversary/
-featuredImage: /photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg
+image: /photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg
 tags:
   - upcoming
   - announcement

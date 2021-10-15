@@ -4,7 +4,7 @@ title: Hello, Chevereto V4
 author: Rodolfo Berrios
 summary: Next generation media sharing.
 permalink: /hello-chevereto-v4/
-featuredImage: /photos/2021/breno-machado-in9-n0JwgZ0-unsplash.jpg
+image: /photos/2021/breno-machado-in9-n0JwgZ0-unsplash.jpg
 tags:
   - news
   - upcoming

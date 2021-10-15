@@ -4,7 +4,7 @@ title: New Chevereto installer
 author: Rodolfo Berrios
 summary: Easier and friendly installation process.
 permalink: /new-installer/
-featuredImage: /photos/2017/installer-screen.jpg
+image: /photos/2017/installer-screen.jpg
 tags:
   - news
   - releases

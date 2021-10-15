@@ -4,7 +4,7 @@ title: Chevereto Macanudo
 author: Rodolfo Berrios
 summary: AKA Chevereto V4.0
 permalink: /chevereto-macanudo/
-featuredImage: /photos/2021/moais.jpg
+image: /photos/2021/moais.jpg
 tags:
   - release
 ---

@@ -4,7 +4,7 @@ title: Introducing new installer with cPanel support
 author: Rodolfo Berrios
 summary: All-new Chevereto installer.
 permalink: /introducing-new-installer-with-cpanel-support/
-featuredImage: /photos/2019/installer-screen-v2.png
+image: /photos/2019/installer-screen-v2.png
 tags:
   - releases
   - cpanel

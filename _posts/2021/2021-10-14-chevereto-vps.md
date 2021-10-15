@@ -4,7 +4,7 @@ title: Chevereto VPS
 author: Rodolfo Berrios
 summary: Universal VPS provisioning
 permalink: /chevereto-vps/
-featuredImage: /photos/2021/vps.jpeg
+image: /photos/2021/vps.jpeg
 tags:
   - news
 ---

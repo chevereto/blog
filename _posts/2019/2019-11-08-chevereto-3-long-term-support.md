@@ -4,7 +4,7 @@ title: Chevereto 3 Long Term Support
 author: Rodolfo Berrios
 summary: LTS until November 2022 for Chevereto V3.
 permalink: /chevereto-3-long-term-support/
-featuredImage: /photos/2021/sergei-akulich-xdj_w3w6dMU-unsplash.jpg
+image: /photos/2021/sergei-akulich-xdj_w3w6dMU-unsplash.jpg
 tags:
   - news
   - lts

@@ -4,7 +4,7 @@ title: New documentation for Chevereto & Chevereto Free
 author: Rodolfo Berrios
 summary: Introducing VuePress powered documentation
 permalink: /new-documentation-for-chevereto-chevereto-free/
-featuredImage: /photos/2021/laptop-3173613.png
+image: /photos/2021/laptop-3173613.png
 tags:
   - news
   - docs

@@ -4,7 +4,7 @@ title: Chevereto 3.15 released
 author: Rodolfo Berrios
 summary: Automatic importing is here.
 permalink: /chevereto-3-15-released/
-featuredImage: /photos/2020/automatic-importing.png
+image: /photos/2020/automatic-importing.png
 tags:
   - features
   - releases
