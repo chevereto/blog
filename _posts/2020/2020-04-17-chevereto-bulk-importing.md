@@ -1,10 +1,10 @@
 ---
 date: 2020-04-17T21:18:18+00:00
-title: Chevereto 3.15 released
+title: Chevereto Bulk Importing
 author: Rodolfo Berrios
 summary: Automatic importing is here.
-permalink: /chevereto-3-15-released/
-image: /photos/2020/automatic-importing.png
+permalink: /chevereto-bulk-importing/
+image: /photos/2020/3.15.jpg
 tags:
   - features
   - releases
