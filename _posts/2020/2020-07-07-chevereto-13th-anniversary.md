@@ -1,8 +1,8 @@
 ---
 date: 2020-07-07T15:10:20+00:00
-title: Chevereto 13th anniversary
+title: Chevereto 13th Anniversary
 author: Rodolfo Berrios
-summary: Big Picture.
+summary: The Big Picture
 permalink: /chevereto-13th-anniversary/
 image: /photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg
 tags:

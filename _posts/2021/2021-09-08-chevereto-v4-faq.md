@@ -2,7 +2,7 @@
 date: 2021-09-08T20:52:24Z
 title: Chevereto V4 FAQ
 author: Rodolfo Berrios
-summary: Frequent asked questions about V4
+summary: Frequent asked questions
 permalink: /chevereto-v4-faq/
 image: /photos/2021/faq-daniella-alscher.png
 tags:

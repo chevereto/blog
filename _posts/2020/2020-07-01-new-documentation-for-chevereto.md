@@ -1,8 +1,8 @@
 ---
 date: 2020-07-01T18:17:56+00:00
-title: New documentation for Chevereto
+title: New Chevereto Documentation 
 author: Rodolfo Berrios
-summary: Introducing VuePress powered documentation
+summary: VuePress powered documentation
 permalink: /new-documentation-for-chevereto/
 image: /photos/2021/laptop-3173613.png
 tags:
