@@ -1,6 +1,6 @@
 ---
 date: 2021-10-14T21:24:21Z
-title: Chevereto on VPS
+title: Chevereto VPS
 author: Rodolfo Berrios
 summary: Universal VPS provisioning
 permalink: /chevereto-vps/
