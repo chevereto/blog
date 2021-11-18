@@ -24,16 +24,16 @@ Chevereto V4.0 beta is for testing purposes and to iterate the system design bas
 
 ## 👑 How to get access to it?
 
-### 🆕 New purchases
+### New purchases
 
 You can purchase a Chevereto V4 license at [chevereto.com/pricing](https://chevereto.com/pricing).
 
 There's a special offering until 2021-12-31: License purchase includes (1) V3 license and (1) V4 license. That's 2 different licenses.
 
-### 🤴 Existing customers
+### Existing customers
 
-* 🎁 Purchases made from 2020-09-01: There's a license redeem option.
-* 🗿 Purchases made before 2020-09-01: There's a license upgrade option.
+* Purchases made from 2020-09-01: There's a license redeem option.
+* Purchases made before 2020-09-01: There's a license upgrade option.
 
 License redeem and upgrade options will be available at [chevereto.com/panel/license](https://chevereto.com/panel/license) until 2021-12-31.
 
@@ -45,9 +45,7 @@ One license per root-domain as `domain.com`.
 
 ## 🏖 Where can I see a demo?
 
-The Chevereto demo (V3.20) is available at [demo.chevereto.com](https://demo.chevereto.com).
-
-**Note:** Chevereto V4.0 looks the same as V3.20, but the source code and quality standards are different.
+There's no online demo for V4 at this time, we will notify when that happens.
 
 ## 🤖 Which are the system requirements?
 
