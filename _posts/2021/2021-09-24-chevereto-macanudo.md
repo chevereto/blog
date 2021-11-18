@@ -31,15 +31,9 @@ With [Chevereto V3](https://releases.chevereto.com/3.X/) we experimented with in
 
 That's why for Chevereto V4, beta will be available for all customers and it will be the standard for all upcoming releases. Beta releases showed us the huge value of early testing which is crucial for our type of software as we are talking about a system that runs in any machine, under a myriad of different configurations.
 
-### Git delivery & packaging
+### Better packaging
 
-Up to now, Chevereto software delivery was made as a zip package which is not ideal and makes the package larger than needed. This is a hassle in the long term and it doesn't provide an easy way to enable the user to determine how the source code changed with ongoing updates.
-
-That changes with Macanudo and now the software will be delivered under a private git repository, in which any client will be able to observe and fork the code soon as we commit changes to it.
-
-As we know that many may be running Chevereto in shared hosting we will also offer the old zip packaging for these in the need and it will be automatic build on our CI/CD service.
-
-With Macanudo we are also going to deliver ready-to-use DRM-free container images for all our customers.
+Package delivery now includes the `-lite` alternative, which is a package considerable smaller (~ 5MB) containing only the software and not its dependencies. Used with [Composer](https://getcomposer.org/), this enables faster and yet more reliable updates for CLI customers.
 
 ### Default development infra
 
