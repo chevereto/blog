@@ -4,7 +4,7 @@ title: New Chevereto Documentation
 author: Rodolfo Berrios
 summary: VuePress powered documentation
 permalink: /new-documentation-for-chevereto/
-image: /photos/2021/laptop-3173613.png
+image: /photos/2021/pexels-aviv-perets-3274903.jpg
 tags:
   - news
   - docs
