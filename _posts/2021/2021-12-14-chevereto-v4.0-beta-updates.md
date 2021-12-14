@@ -1,0 +1,37 @@
+---
+date: 2021-12-14T14:11:45Z
+lastmod: 2021-12-14T14:11:45Z
+title: Chevereto V4.0 beta updates
+author: Rodolfo Berrios
+summary: Stay in the loop
+permalink: /chevereto-v4.0-beta-updates/
+image: /photos/2021/pexels-fiona-art-5186869.jpg
+tags:
+  - updates
+---
+
+In this post you will get informed about V4.0 development updates, changes and more. 😉 Add it to your bookmarks to stay in loop.
+
+> This post will be updated with each new beta release.
+
+## Status
+
+We are working to deliver the new implementation for login in **4.0.0.beta.5** enabling us to bump support to 45 login providers.
+
+## Betas
+
+* [4.0.0.beta.4](https://releases.chevereto.com/4.X/4.0/4.0.0.beta.4.html)
+
+User interface keeps getting improved, supports Web Share API, improves iOS experience, drop folder support for uploader and more.
+
+* [4.0.0.beta.3](https://releases.chevereto.com/4.X/4.0/4.0.0.beta.3.html)
+
+User interface upgrades, added palettes and keyboard shortcuts.
+
+* [4.0.0.beta.2](https://releases.chevereto.com/4.X/4.0/4.0.0.beta.2.html)
+
+Pushed the new console and configuration standard, easier and more reliable.
+
+* [4.0.0.beta.1](https://releases.chevereto.com/4.X/4.0/4.0.0.beta.1.html)
+
+Introduced new system architecture made on top of our [Chevere Framework](https://chevere.org).
