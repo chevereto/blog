@@ -63,6 +63,10 @@ With Macanudo you could create a new media sharing community or empower your exi
 
 There's no limits in its application, it all depends on your imagination.
 
+### User interface upgrade
+
+For Macanudo we are pushing a superb user interface upgrade for which we are including multiple color palettes, keyboard shortcuts, highly improved visual elements and overall better aesthetics. Take a peek on the [raw footage](https://www.youtube.com/watch?v=5rQ0DeO1T_g) to get an early preview.
+
 ### Hybridauth
 
 In Macanudo we are replacing our old fashioned third-party login implementation with [Hybridauth](https://github.com/hybridauth/hybridauth).
