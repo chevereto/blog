@@ -45,7 +45,7 @@ One license per root-domain as `domain.com`.
 
 ## 🏖 Where can I see a demo?
 
-There's no online demo for V4 at this time, we will notify when that happens.
+There's no online demo for V4 at this time, we will notify when that happens. Take a peek on the [raw footage](https://www.youtube.com/watch?v=5rQ0DeO1T_g) to get an early preview.
 
 ## 🤖 Which are the system requirements?
 
