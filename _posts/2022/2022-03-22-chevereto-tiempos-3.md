@@ -1,6 +1,6 @@
 ---
 date: 2022-03-22T14:55:45Z
-lastmod: 2022-03-25T14:51:26Z
+lastmod: 2022-03-25T21:43:32Z
 title: Tiempos 2022/03
 author: Rodolfo Berrios
 summary: March 2022
@@ -47,6 +47,12 @@ Image delete link returns in V4.0.0.beta.7, enabling users to keep a one-time sh
 We are now offering a [Pro Support](https://chevereto.com/support) layer which gets you yearly top priority handling for your issues (Software, Bugs) and RFC.
 
 🚀 Issues get handled 30x faster for Pro Support subscribers.
+
+## New Community Manager and Discord server
+
+Everybody welcome Chris ([DarkTexas](https://chevereto.com/community/members/darktexas-%F0%9F%A6%84.90242/)) as the new [Community mannager](https://chevereto.com/community/threads/new-community-manager-and-discord-server.14196/).
+
+👏 Thanks to Chris we now have the Discord channel available again. Come in and [join us](https://chv.to/discord)!
 
 ## RFC
 
