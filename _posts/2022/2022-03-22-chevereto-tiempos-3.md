@@ -1,5 +1,6 @@
 ---
 date: 2022-03-22T14:55:45Z
+lastmod: 2022-03-25T14:51:26Z
 title: Tiempos 2022/03
 author: Rodolfo Berrios
 summary: March 2022
@@ -41,12 +42,19 @@ Image delete link returns in V4.0.0.beta.7, enabling users to keep a one-time sh
 
 🥑 This enables to safely remove images even without being logged in.
 
+## New Pro Support
+
+We are now offering a [Pro Support](https://chevereto.com/support) layer which gets you yearly top priority handling for your issues (Software, Bugs) and RFC.
+
+🚀 Issues get handled 30x faster for Pro Support subscribers.
+
 ## RFC
 
 👍 We got the following requests for changes. Do us a big one for and provide your vote to drive development.
 
 - [Bulk Exporter: Image + Album export for each user](https://chevereto.com/community/threads/bulk-exporter-image-album-export-for-each-user.14145/)
 - [Pick username with social signups](https://chevereto.com/community/threads/pick-username-with-social-signups.14181/)
+- [Add AVIF support](https://chevereto.com/community/threads/add-avif-support.14190/)
 
 ## Community Tips
 
