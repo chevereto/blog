@@ -1,5 +1,6 @@
 ---
 date: 2021-09-24T16:31:38Z
+lastmod: 2022-04-28T12:56:29Z
 title: Chevereto Macanudo
 author: Rodolfo Berrios
 summary: AKA Chevereto V4.0
@@ -14,6 +15,12 @@ tags:
 Chevereto's fourth major release is named *macanudo* which is a [hispanic word](https://dle.rae.es/macanudo) that means "Well, magnificent, extraordinary, excellent, in a material and moral sense".
 
 Macanudo is a pretentious name for a software release and we picked it because Chevereto V4.0 opens the path for substantial changes in how we produce and deliver our software product and it represents all what we want to achieve in the entire V4.X cycle.
+
+## V4 feature summary
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/C-AZVuMEFMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## A new philosophy
 
