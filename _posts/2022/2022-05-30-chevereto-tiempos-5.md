@@ -1,5 +1,6 @@
 ---
 date: 2022-05-30T21:01:19Z
+lastmod: 2022-06-08T15:27:40Z
 title: Tiempos 2022/05
 author: Rodolfo Berrios
 summary: May 2022
@@ -15,12 +16,24 @@ This is the fifth issue of **Chevereto Tiempos**, a monthly recap for all-things
 
 The V4.0.0.beta.9 release has been [announced](https://chevereto.com/community/threads/chevereto-v4-0-0-beta-9-announcement.14280/). This release improves in:
 
-- 📱 Introduces two-factor authentication
-- ❤️ Supports for more external login providers
+- ⚙️ Added CLI command for getting setting value
+- ⚙️ Added database-update command, replaces install for db updates
+- ⚙️ Renamed CLI importing command to bulk-importer
 - ✅ Delete actions now redirect as 303
 - ✅ Removed PHP extensions requirements (mbstring, ds, zip)
 - 🎃 Improved user menu
+- 🐘 Add early detection for PHP setup
+- 🐘 Added stricter typed settings
 - 🐘 Improved PHP bootstrapping
+- 🐘 Overall improved code quality
+- 🐘 Updated Openstack library
+- 🐚 Improved language translations bootstrapping
+- 👉 Renamed /dashboard/bulk to /dashboard/bulk-importer
+- 🔑 Added CLI command for user password reset
+- 🤳 Enabled higher user avatar image resolution
+- 😘 Added configurable first tab on image page
+- 🛡 Added support for Arachnid API (combat CSAM)
+- 🛸 Unified application cache directory
 
 Note that V4.0.0.beta.9 is on the works, more changes will be announced and the release should be available within June 2022.
 
