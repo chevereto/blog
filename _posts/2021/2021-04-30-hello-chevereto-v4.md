@@ -37,20 +37,16 @@ _Read [Chevereto V4.0 &#8220;macanudo&#8221; announcement](https://chevereto.com
 
 ## Chevereto V4 release cycle
 
-All V4 releases will be named and will get released each 6 months (March and September).
+All V4 releases will be named, released each 6 months. Chevereto V4.X updates will be about improving on everything and I'm confirming at most five revisions for this major version.
 
-Chevereto V4.X updates will be about improving on everything and I'm confirming five revisions for this major version.
-
-| Version                                                                                    | Date    | Code name   |
-| ------------------------------------------------------------------------------------------ | ------- | ----------- |
-| [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | 2021-09 | macanudo    |
-| [4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | 2022-03 | supremo     |
-| 4.2                                                                                        | 2022-09 | *pulento*   |
-| 4.3                                                                                        | 2023-03 | *bacan*     |
-| 4.4                                                                                        | 2023-09 | *magnifico* |
-| 4.5                                                                                        | 2024-03 | *superior*  |
-
-> (n/a) some release code names haven't being confirmed yet.
+| Version                                                                                    | Code name   |
+| ------------------------------------------------------------------------------------------ | ----------- |
+| [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | macanudo    |
+| [4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | supremo     |
+| 4.2                                                                                        | *pulento*   |
+| 4.3                                                                                        | *bacan*     |
+| 4.4                                                                                        | *magnifico* |
+| 4.5                                                                                        | *superior*  |
 
 ## Chevereto V4 licensing
 
