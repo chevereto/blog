@@ -30,6 +30,7 @@ Note thatV4.0.0-beta.10 is on the works, more changes will be announced and the 
 - [Parallel image resize generation](https://chevereto.com/community/threads/parallel-image-resize-generation.14319/)
 - [TOS agreement when guest-uploading](https://chevereto.com/community/threads/tos-agreement-when-guest-uploading.14297/)
 - [User profile first tab](https://chevereto.com/community/threads/user-profile-first-tab.14298/)
+- [Auto clear CloudFlare cache when an Image gets deleted](https://chevereto.com/community/threads/auto-clear-cloudflare-cache-when-an-image-gets-deleted.14357/)
 
 * * *
 
