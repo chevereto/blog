@@ -5,9 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Push it
-        uses: mvasigh/dispatch-action@main
-        with:
-          token: ${{ secrets.REPO_BLOG_DEPLOY_TOKEN }}
-          repo: ${{ secrets.REPO_BLOG_DEPLOY }}
-          owner: ${{ secrets.REPO_BLOG_DEPLOY_USERNAME }}
-          event_type: build_application
+        run: |
+          curl -XPOST -u "${{ secrets.REPO_BLOG_DEPLOY_USERNAME }}:${{ secrets.REPO_BLOG_DEPLOY_TOKEN }}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/${{ secrets.REPO_BLOG_DEPLOY }}/dispatches --data '{"event_type": "build_application"}'
