@@ -19,7 +19,7 @@ The V4.0.0-beta.10 release has been [announced](https://chevereto.com/community/
 - 🛡 Added support for two-factor authentication
 - 🛡 Added application secret encryption
 
-Note thatV4.0.0-beta.10 is on the works, more changes will be announced and the release should be available within July 2022.
+V4.0.0-beta.10 is on the works, more changes will be announced and the release should be available within **July 2022**.
 
 ## RFC
 
