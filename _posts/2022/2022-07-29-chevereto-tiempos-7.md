@@ -3,7 +3,7 @@ date: 2022-07-29T15:31:23Z
 lastmod: 2022-07-29T15:31:23Z
 title: Tiempos 2022/07
 author: Rodolfo Berrios
-summary: June 2022
+summary: July 2022
 permalink: /tiempos-2022-07/
 image: /photos/2022/milad-fakurian-nY14Fs8pxT8-unsplash.jpg
 tags:
