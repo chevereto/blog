@@ -36,7 +36,7 @@ Chevereto V4.0.0-beta.11 has been [released](https://chevereto.com/community/thr
 - 🚅 Added native lazy load listings
 - 🚧 Added root level maximum limits (users, images, albums)
 
-## V4.0.0 announcement
+## 🤩 V4.0.0 announcement
 
 V4.0.0 has been [announced](https://chevereto.com/community/threads/chevereto-v4-0-0-announcement.14479/). Chevereto V4.0.0 is the first production-grade release for Chevereto V4 and it should be available within **September 2022**.
 
