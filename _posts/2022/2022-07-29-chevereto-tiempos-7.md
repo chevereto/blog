@@ -51,6 +51,7 @@ We got the following requests for changes. Vote to drive development.
 - [Call to action button for albums (admin & manager roles)](https://chevereto.com/community/threads/call-to-action-button-for-albums-admin-manager-roles.14416/)
 - [Maintenance Info](https://chevereto.com/community/threads/maintenance-info.14418/)
 - [Don't count Owner + Admin views](https://chevereto.com/community/threads/dont-count-owner-admin-views.14423/)
+- [RSS feed with latest posts](https://chevereto.com/community/threads/rss-feed-with-latest-posts.14430/)
 
 ## 💖 Contribute to Tiempos
 
