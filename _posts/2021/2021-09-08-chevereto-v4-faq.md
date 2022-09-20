@@ -53,7 +53,7 @@ Chevereto V4 inherits all the [Chevereto V3 requirements](https://v3-docs.chever
 
 ## 📦 How to install V4?
 
-Refer to [V4 Installation instructions](https://v4-docs.chevereto.com/get-started/installation.html).
+Refer to [V4 Installation instructions](https://v4-docs.chevereto.com/application/installing/installation.htmll).
 
 ## 🆙 How to upgrade my V3 installation?
 
