@@ -3,7 +3,7 @@ date: 2022-09-05T16:48:40Z
 title: End of support for Chevereto V3
 author: Rodolfo Berrios
 summary: Chevereto V3 EOL
-image: /photos/2022/clark-van-der-beken-xApC8DIiD54-unsplash.jpg
+image: /photos/2022/milad-fakurian-9xCvw544PWQ-unsplash.jpg
 tags:
   - support
 ---
