@@ -7,7 +7,7 @@ summary: AKA Chevereto V4.0
 permalink: /chevereto-macanudo/
 image: /photos/2021/moais.jpg
 tags:
-  - release
+  - releases
 ---
 
 > Chevereto Macanudo beta is set to be released on 2021-09-30. Beta process is scheduled to last at least 3 months.

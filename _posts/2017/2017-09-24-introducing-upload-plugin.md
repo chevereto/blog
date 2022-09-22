@@ -10,9 +10,7 @@ dsq_needs_sync:
   - "1"
 image: /photos/2017/pup_display.png
 tags:
-  - pup
   - features
-  - upload plugin
 ---
 
 The new upload plugin allows any website to **easily provide image uploading** via Chevereto. It installs quickly, it supports any website and it features seamless support for the most popular forum software like **Discourse**, **XenForo**, **IP.Board**, **vBulletin**, **phpBB**, **SMF** and even more.

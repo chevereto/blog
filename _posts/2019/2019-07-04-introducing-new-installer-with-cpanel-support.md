@@ -6,9 +6,6 @@ summary: All-new Chevereto installer.
 permalink: /introducing-new-installer-with-cpanel-support/
 image: /photos/2019/installer-screen-v2.png
 tags:
-  - releases
-  - cpanel
-  - installation
   - installer
 ---
 The installer has been re-made (again) and now, set up your own Chevereto based image hosting website is even easier than before. This new version handles all the process and is the recommended method to install Chevereto from now on.
