@@ -43,10 +43,19 @@ module.exports = {
             name: 'msapplication-TileColor',
             content: '#000000'
         }],
-        ['meta', { 
+        ['meta', {
             name: 'viewport',
             content: 'width=device-width, initial-scale=1.0'
-        }]
+        }],
+        ['script', {
+                async: true,
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-30H0V142P9',
+        }],
+        ['script', {},
+            [
+                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-30H0V142P9');",
+            ],
+        ],
     ],
     themeConfig: {
         pwa: true,
