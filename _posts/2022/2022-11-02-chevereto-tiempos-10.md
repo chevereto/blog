@@ -1,9 +1,9 @@
 ---
 date: 2022-11-02T21:20:19Z
 lastmod: 2022-11-02T21:20:19Z
-title: Tiempos 2022/09
+title: Tiempos 2022/10
 author: Rodolfo Berrios
-summary: September 2022
+summary: October 2022
 image: /photos/2022/guerrillabuzz-crypto-pr-MpL4w1vb798-unsplash.jpg
 tags:
   - tiempos
