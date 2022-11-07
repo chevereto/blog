@@ -1,6 +1,6 @@
 ---
 date: 2022-09-05T16:48:40Z
-lastmod: 2022-09-30T15:14:21Z
+lastmod: 2022-11-07T13:13:08Z
 title: End of support for Chevereto V3
 author: Rodolfo Berrios
 summary: Chevereto V3 EOL
@@ -26,7 +26,7 @@ Chevereto V3 will be removed from our catalog and we will stop selling Chevereto
 
 ## ⌛️ Limited time offer
 
-By **2022-09-30** the upgrade option for Chevereto V3 licenses will be removed from the catalog and a new license purchase will be required to access to Chevereto V4.
+By **2022-11-11** the upgrade option for Chevereto V3 licenses will be removed from our website and a new license purchase will be required to access to Chevereto V4.
 
 ## 🥸 What if I don't upgrade?
 
