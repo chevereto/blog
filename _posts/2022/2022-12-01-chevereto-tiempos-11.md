@@ -23,7 +23,7 @@ With these new editions we expect to empower more users and companies, of all si
 
 ## 😘 New free edition
 
-In accordance with the [new editions announcement](#️-new-editions) we are now providing an all-new free edition, perfect for **personal usage** and to get a glimpse on how Chevereto can solve photo hosting and sharing in your organization.
+In accordance with the **new editions** announcement we are now providing an all-new free edition, perfect for **personal usage** and to get a glimpse on how Chevereto can solve photo hosting and sharing in your organization.
 
 Chevereto free edition is free software available at [chevereto/chevereto](https://github.com/chevereto/chevereto). This edition removes plenty paid features, including: Multi-user, guest uploads, watermarks, external storage and more.
 
