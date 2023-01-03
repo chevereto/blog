@@ -1,6 +1,6 @@
 ---
 date: 2023-01-03T21:52:49Z
-lastmod: 2023-01-03T21:52:49Z
+lastmod: 2023-01-03T22:30:48Z
 title: Tiempos 2023/01
 author: Rodolfo Berrios
 summary: January 2022
@@ -25,7 +25,7 @@ Chevereto v4.0.6 introduces support for custom content semantics, which enables 
 
 ![Semantics listing](/photos/2023/4.0.6/semantics-listing.jpg)
 
-For example, if you want to offer goods with Chevereto you could change "Album" to "Product", "Categories" to "Brands" and "Users" to "Client". If you are using Chevereto for managing media assets you could change "Images" to "Samples" or "Photos". There's no limits, you define the context.
+For example, if you want to offer goods with Chevereto you could change "Album" to "Product", "Categories" to "Brands" and "Users" to "Clients". If you are using Chevereto for managing media assets you could change "Images" to "Samples" or "Photos". There's no limits, you define the context.
 
 ![Semantics settings](/photos/2023/4.0.6/semantics-settings.png)
 
@@ -47,7 +47,7 @@ For custom CTA you can use Font Awesome icons or Emoji and point to any [href](h
 
 ### Added support for RTL languages
 
-There are great news for Arabic, Hebrew, Persian and all the right-to-left languages as Chevereto v4.0.6 greatly improves the user experience for these. The user interface now looks the way it should be for users of these languages.
+There are great news for Arabic, Hebrew, Persian and all the right-to-left languages as Chevereto v4.0.6 greatly improves the user experience for these. User interface now looks the way it should be for users of these languages.
 
 ![rtl](/photos/2023/4.0.6/rtl.jpg)
 
@@ -55,7 +55,7 @@ All margins, borders, padding and alignments have been revisited, the entire use
 
 ### New profile display
 
-User profile display has been improved and now the user avatar shows on center of the viewport. What we are seeking with this is to give top priority for the user identify at its profile page.
+User profile display has been improved and now the user avatar shows on center of the viewport. What we are seeking with this is to give top priority for the user at its profile page.
 
 ![profile](/photos/2023/4.0.6/profile.jpg)
 
