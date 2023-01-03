@@ -23,11 +23,11 @@ Review [Chevereto v4.0.6 release notes](https://releases.chevereto.com/4.X/4.0/4
 
 Chevereto v4.0.6 introduces support for custom content semantics, which enables to configure the terms used for all content labels including images, albums, categories and more.
 
-![Semantics listing](../../public/photos/2023/4.0.6/semantics-listing.jpg)
+![Semantics listing](/photos/2023/4.0.6/semantics-listing.jpg)
 
 For example, if you want to offer goods with Chevereto you could change "Album" to "Product", "Categories" to "Brands" and "Users" to "Client". If you are using Chevereto for managing media assets you could change "Images" to "Samples" or "Photos". There's no limits, you define the context.
 
-![Semantics settings](../../public/photos/2023/4.0.6/semantics-settings.png)
+![Semantics settings](/photos/2023/4.0.6/semantics-settings.png)
 
 With semantics you can now bend Chevereto to wrap your content and context the exact way you want, providing a more engaging experience for your users.
 
@@ -35,21 +35,21 @@ With semantics you can now bend Chevereto to wrap your content and context the e
 
 Chevereto v4.0.6 introduces customizable call-to-action (CTA) buttons for albums, which enables to create extra buttons that will be shown at the album view and when viewing images belonging-to.
 
-![cta zoom](../../public/photos/2023/4.0.6/cta-zoom.png)
+![cta zoom](/photos/2023/4.0.6/cta-zoom.png)
 
 With this addition you can now add custom actions pointing to a purchase link, messenger contact, send an email, download a file, book calendar, call a number and more.
 
-![cta viewer](../../public/photos/2023/4.0.6/cta-viewer.jpg)
+![cta viewer](/photos/2023/4.0.6/cta-viewer.jpg)
 
 For custom CTA you can use Font Awesome icons or Emoji and point to any [href](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-href) target. You can also change button priority by simply dragging them.
 
-![cta sort](../../public/photos/2023/4.0.6/cta-sort.gif)
+![cta sort](/photos/2023/4.0.6/cta-sort.gif)
 
 ### Added support for RTL languages
 
 There are great news for Arabic, Hebrew, Persian and all the right-to-left languages as Chevereto v4.0.6 greatly improves the user experience for these. The user interface now looks the way it should be for users of these languages.
 
-![rtl](../../public/photos/2023/4.0.6/rtl.jpg)
+![rtl](/photos/2023/4.0.6/rtl.jpg)
 
 All margins, borders, padding and alignments have been revisited, the entire user interface is now RTL compatible in a degree never seen before.
 
@@ -57,7 +57,7 @@ All margins, borders, padding and alignments have been revisited, the entire use
 
 User profile display has been improved and now the user avatar shows on center of the viewport. What we are seeking with this is to give top priority for the user identify at its profile page.
 
-![profile](../../public/photos/2023/4.0.6/profile.jpg)
+![profile](/photos/2023/4.0.6/profile.jpg)
 
 ### Bugs
 
