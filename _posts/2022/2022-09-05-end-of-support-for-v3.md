@@ -13,6 +13,8 @@ After **3161 days** (*8 years, 7 months, 25 days*) since [V3.0.0](https://releas
 
 [Chevereto V3](https://releases.chevereto.com/3.X/) has been a successful major version which has been delivering service for lots years, but its age starts to show. [Chevereto V3 LTS](../2019/2019-11-08-chevereto-3-long-term-support.md) has been around long already and it got extended one extra year due the pandemic. It has been a superb release, but we need to move on.
 
+**There won't be more releases of any type (including revisions, patches and hot-fixes) for Chevereto V3.**
+
 ## 😧 Services affected
 
 End of support means that we will stop providing the following services for Chevereto V3 licenses:
