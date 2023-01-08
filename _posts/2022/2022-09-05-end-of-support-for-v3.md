@@ -1,6 +1,6 @@
 ---
 date: 2022-09-05T16:48:40Z
-lastmod: 2022-11-07T13:13:08Z
+lastmod: 2023-01-08T11:49:43Z
 title: End of support for Chevereto V3
 author: Rodolfo Berrios
 summary: Chevereto V3 EOL
@@ -17,22 +17,15 @@ After **3161 days** (*8 years, 7 months, 25 days*) since [V3.0.0](https://releas
 
 End of support means that we will stop providing the following services for Chevereto V3 licenses:
 
+- New releases
 - Bug Tracking
 - Software Support
-- Purchase upgrade to V4
-- Access to downloads prior V3.20
 
 Chevereto V3 will be removed from our catalog and we will stop selling Chevereto V3 on **2022-09-30**.
 
-## ⌛️ Limited time offer
-
-By **2022-11-11** the upgrade option for Chevereto V3 licenses will be removed from our website and a new license purchase will be required to access to Chevereto V4.
-
 ## 🥸 What if I don't upgrade?
 
-Chevereto V3 end of support happens at the [same time](https://v3-docs.chevereto.com/get-started/status.html) of PHP 7.4 EOL. Systems running Chevereto V3 will stop getting support at both application and language layers, and the only support available will be these provided by Linux-based distributions like Debian, Ubuntu or RedHat which is not the same type of support.
-
-Outdated systems may keep servicing for some years, but it will spawn an ever increasing cost for system management as the market abandons the old tech. From a security point of view, outdated Chevereto systems could be exposed to threats that may be constantly appearing with time.
+Outdated Chevereto systems may keep servicing for some months, but it will spawn an increasing cost for system management and these systems could be exposed to threats that may be constantly appearing with time.
 
 ## 😀 Services not affected
 
