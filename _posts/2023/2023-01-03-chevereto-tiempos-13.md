@@ -1,6 +1,6 @@
 ---
 date: 2023-01-03T21:52:49Z
-lastmod: 2023-01-03T22:47:23Z
+lastmod: 2023-01-10T19:01:37Z
 title: Tiempos 2023/01
 author: Rodolfo Berrios
 summary: January 2023
@@ -18,6 +18,10 @@ This is the issue #13 of Chevereto Tiempos, the monthly curated recap for all-th
 Patch release 4.0.6 fixes a lot of bugs, introduces PHP 8.2 support and provides great new features for Chevereto V4 that will extend the use-scope for your installations.
 
 Review [Chevereto v4.0.6 release notes](https://releases.chevereto.com/4.X/4.0/4.0.6.html) for a quick summary.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item m-0" src="https://www.youtube.com/embed/TirAHdfEOR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Semantics
 
