@@ -4,7 +4,7 @@ lastmod: 2023-01-10T19:01:37Z
 title: Tiempos 2023/01
 author: Rodolfo Berrios
 summary: January 2023
-image: /photos/2023/mike-erskine-unsplash.jpg
+image: /photos/2023/mike-erskine-75ljuXfyzaE-unsplash.jpg
 tags:
   - tiempos
 ---
