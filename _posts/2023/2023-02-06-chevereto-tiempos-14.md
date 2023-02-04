@@ -1,6 +1,6 @@
 ---
-date: 2023-02-04T08:52:48Z
-lastmod: 2023-02-04T08:52:48Z
+date: 2023-02-06T08:52:48Z
+lastmod: 2023-02-06T08:52:48Z
 title: Tiempos 2023/02
 author: Rodolfo Berrios
 summary: February 2023
