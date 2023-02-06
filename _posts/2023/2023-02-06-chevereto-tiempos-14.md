@@ -1,6 +1,6 @@
 ---
 date: 2023-02-06T08:52:48Z
-lastmod: 2023-02-06T08:52:48Z
+lastmod: 2023-02-06T19:04:24Z
 title: Tiempos 2023/02
 author: Rodolfo Berrios
 summary: February 2023
@@ -13,9 +13,7 @@ This is the issue #14 of Chevereto Tiempos, the awesome monthly curated recap fo
 
 ## 🚀 Chevereto v4.0.7 released
 
-Patch release 4.0.7 fixes several bugs which makes it the most stable release for `4.0` cycle.
-
-and a new comments tab on images.
+Patch release 4.0.7 fixes several bugs which makes it the most stable release for `4.0` cycle. It also includes user favicon and comments tab.
 
 Review [Chevereto v4.0.7 release notes](https://releases.chevereto.com/4.X/4.0/4.0.7.html) for a quick summary.
 
@@ -27,17 +25,13 @@ Review [Chevereto v4.0.7 release notes](https://releases.chevereto.com/4.X/4.0/4
 
 Chevereto v4.0.7 will display for logged users their avatar as website favicon. This will make your website to stand taller among other tabs as it will show user's avatar instead of the website icon.
 
-```plain
-🚧 Pending screens
-```
+![User avatar favicon](/photos/2023/4.0.7/favicon.jpg)
 
 ### Comments tab on images
 
 In Chevereto v4.0.7 we are introducing a dedicated comments tab for images, with this new feature you'll be able to enhance the interactivity and community experience on your images as comments will be now on its own tab.
 
-```plain
-🚧 Pending screens
-```
+![Comments tab](/photos/2023/4.0.7/comments-tab.png)
 
 For comments you can use Disqus or any third-party comments provider.
 
