@@ -1,6 +1,6 @@
 ---
 date: 2023-02-06T08:52:48Z
-lastmod: 2023-02-06T19:04:24Z
+lastmod: 2023-02-10T10:22:28Z
 title: Tiempos 2023/02
 author: Rodolfo Berrios
 summary: February 2023
@@ -76,6 +76,8 @@ We got the following [requests for changes](https://chv.to/rfc). Want to suggest
 ## 💖 Contribute to Tiempos
 
 Did you create content around Chevereto? That's awesome! [Contact us](https://chevereto.com/contact) to get your link featured here.
+
+- [Chevereto: Autoalojamiento para tus imágenes](https://atareao.es/tutorial/self-hosted/chevereto-autoalojamiento-para-tus-imagenes/)
 
 * * *
 
