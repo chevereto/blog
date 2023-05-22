@@ -8,6 +8,9 @@ summary: Chevereto as a product gallery
 image: /photos/2023/zapatito-cochinito.jpg
 tags:
   - guides
+feed:
+  description: Chevereto as a product gallery (feed)
+  image: /photos/2023/zapatito-cochinito.jpg
 ---
 
 A product gallery is an effective marketing strategy to display a wide range of products. With Chevereto you can highlight the most popular or new products and create a more visually appealing shopping experience.
