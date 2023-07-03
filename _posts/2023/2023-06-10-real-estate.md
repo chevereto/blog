@@ -13,8 +13,6 @@ feed:
   image: /photos/2023/real-estate.jpg
 ---
 
-# Real estate
-
 In the real estate market, an appealing and professional gallery can make a difference in the sales process and determine the success value of a transaction. With Chevereto, you can showcase property images, floor plans, models and more ensuring that you present every visual detail that matters.
 
 ![Home](/guides/2023/real-estate/home.jpg)
@@ -47,8 +45,8 @@ Chevereto offers the option to organize your real estate projects by creating ne
 
 - Go to Settings > [Categories](https://v4-admin.chevereto.com/settings/categories.html)
 
-|![Set-Category](/guides/2023/real-estate/categories.webp)|![Category](/guides/2023/real-estate/categories1.webp)|
-|---|---|
+| ![Set-Category](/guides/2023/real-estate/categories.webp) | ![Category](/guides/2023/real-estate/categories1.webp) |
+| --------------------------------------------------------- | ------------------------------------------------------ |
 
 ## Pages
 
@@ -56,8 +54,8 @@ Edit or add new pages to include additional information about your Real Estate b
 
 - Go to Settings > [Pages](https://v4-admin.chevereto.com/settings/pages.html)
 
-|![Pages1](/guides/2023/real-estate/pages1.webp)|![Pages](/guides/2023/real-estate/pages.webp)|
-|---|---|
+| ![Pages1](/guides/2023/real-estate/pages1.webp) | ![Pages](/guides/2023/real-estate/pages.webp) |
+| ----------------------------------------------- | --------------------------------------------- |
 
 ## Share your real estate projects privately
 
@@ -90,9 +88,9 @@ In Chevereto you can turnkey configure the theme to align it with your needs. Fo
 
 You can also adjust the layout of your gallery by selecting the number of columns you want to display, whether you prefer a more compact or spacious appearance. You can create the ideal layout to highlight the most of your real estate projects.
 
-|Go to Settings > [Theme](https://v4-admin.chevereto.com/settings/theme.html)|Go to Settings > [Listings](https://v4-admin.chevereto.com/settings/listings.html)|
-|---|---|
-|![Listings](/guides/2023/real-estate/theme.webp)|![Themes](/guides/2023/real-estate/listings.webp)|
+| Go to Settings > [Theme](https://v4-admin.chevereto.com/settings/theme.html) | Go to Settings > [Listings](https://v4-admin.chevereto.com/settings/listings.html) |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![Listings](/guides/2023/real-estate/theme.webp)                             | ![Themes](/guides/2023/real-estate/listings.webp)                                  |
 
 ## Call to action buttons
 
@@ -100,8 +98,8 @@ Chevereto enables to add customized call-to-action buttons that guide and motiva
 
 These tools increase the likelihood of desired actions, such as buying a home, subscribing to your newsletter, or requesting more information. Include these buttons in your albums to generate a greater impact.
 
-|Go to Edit under any Album|
-|-|-
-|![calltoaction](/guides/2023/real-estate/calltoactions.webp)|
+| Go to Edit under any Album |
+| -------------------------- ||
+| ![calltoaction](/guides/2023/real-estate/calltoactions.webp) |
 
 These are just a few tips to improve your gallery, but there are many other tools that we invite you to explore to get the most out of Chevereto!
