@@ -1,16 +1,13 @@
 ---
 date: 2023-06-29T19:17:00Z
 lastmod: 2023-06-29T19:17:00Z
-permalink: /guides/
+permalink: /guides/real-estate-with-chevereto/
 title: Real estate with Chevereto
 author: Rodolfo Berrios
 summary: Chevereto for Real estate
 image: /photos/2023/real-estate.jpg
 tags:
   - guides
-feed:
-  description: Chevereto for real estate
-  image: /photos/2023/real-estate.jpg
 ---
 
 In the real estate market, an appealing and professional gallery can make a difference in the sales process and determine the success value of a transaction. With Chevereto, you can showcase property images, floor plans, models and more ensuring that you present every visual detail that matters.
