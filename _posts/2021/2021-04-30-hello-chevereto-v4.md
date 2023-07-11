@@ -1,5 +1,6 @@
 ---
 date: 2021-04-30T23:28:34+00:00
+lastmod: 2023-07-11T00:31:45Z
 title: Hello, Chevereto V4
 author: Rodolfo Berrios
 summary: Next gen media sharing
@@ -42,8 +43,8 @@ All V4 releases will be named, released each 6 months. Chevereto V4.X updates wi
 | Version                                                                                    | Code name   |
 | ------------------------------------------------------------------------------------------ | ----------- |
 | [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | macanudo    |
-| [4.1](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | supremo     |
-| 4.2                                                                                        | *pulento*   |
+| 4.1                                                                                        | pulento     |
+| [4.2](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | supremo     |
 | 4.3                                                                                        | *bacan*     |
 | 4.4                                                                                        | *magnifico* |
 | 4.5                                                                                        | *superior*  |
