@@ -8,7 +8,7 @@ module.exports = {
     head: [
         ['link', {
             rel: 'icon',
-            href: `/logo.png`
+            href: '/logo.png'
         }],
         ['link', {
             rel: 'manifest',
@@ -29,11 +29,6 @@ module.exports = {
         ['link', {
             rel: 'apple-touch-icon',
             href: '/logo.png'
-        }],
-        ['link', {
-            rel: 'mask-icon',
-            href: '/logo.png',
-            color: '#3eaf7c'
         }],
         ['meta', {
             name: 'msapplication-TileImage',
@@ -58,7 +53,7 @@ module.exports = {
         ],
     ],
     themeConfig: {
-        pwa: true,
+        pwa: false,
         authors: [
             {
                 name: 'Rodolfo Berrios',
