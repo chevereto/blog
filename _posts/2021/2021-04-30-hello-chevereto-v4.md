@@ -8,7 +8,6 @@ permalink: /hello-chevereto-v4/
 image: /photos/2021/breno-machado-in9-n0JwgZ0-unsplash.jpg
 tags:
   - news
-  - upcoming
 ---
 Is about time to reinvigorate Chevereto!
 

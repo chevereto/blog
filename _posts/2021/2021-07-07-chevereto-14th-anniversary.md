@@ -6,7 +6,6 @@ summary: Hello cloud, applications and V4!
 permalink: /chevereto-14th-anniversary/
 image: /photos/2021/pexels-john-cahil-rom-2170473.jpg
 tags:
-  - upcoming
   - announcement
 ---
 Chevereto turns 14 and for this anniversary we got many announcements and project updates to share.

@@ -6,7 +6,6 @@ summary: The Big Picture
 permalink: /chevereto-13th-anniversary/
 image: /photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg
 tags:
-  - upcoming
   - announcement
 ---
 Within the years the use case for Chevereto has been shifted a lot and it has evolved to a point where it has a very distinctive appeal shaped by my way of interpreting the user needs around it. Chevereto turns 13 with an install base of near **15,000 public installations** and I'm one guy in development.
@@ -51,15 +50,15 @@ Based in my horrible way to measure time, I could say that "it will take a while
 
 There's a lot of stuff in V4's _big picture_ that I will implement progressively during all the lifespan of V4.X.
 
-* **Infrastructure provisioning**  
+* **Infrastructure provisioning**
     I want to provide the server model for production. No more messy servers configurations.
-* **Support layers**  
+* **Support layers**
     I've the intention of providing more support layers and I want to certify others for this job. I don't want to control the support around the software, I want to distribute it.
-* **Third-party plugin store**  
+* **Third-party plugin store**
     I want to allow others to provide addons for Chevereto. A store for services (free, paid, and subscriptions) around the software.
-* **Any media-type support**  
+* **Any media-type support**
     Support for _any_ media type is a must.
-* **Log reporting**  
+* **Log reporting**
     Automatically notify me that there are errors so I can be more proactive fixing bugs.
 
 All the changes can be summarized in that Chevereto will evolve from a image sharing website to a **universal media solution**, that will allow to create anything from _a simple image sharing website_ up to anything you may need like a photo portfolio, a Flickr-killer (please do) or even add media sharing to your existing application.
