@@ -57,7 +57,7 @@ module.exports = {
         authors: [
             {
                 name: 'Rodolfo Berrios',
-                avatar: '/avatars/rodolfo.jpg',
+                avatar: '/avatars/rodber.png',
                 link: 'https://rodolfoberrios.com/',
                 linktext: 'Rodolfo',
             },
