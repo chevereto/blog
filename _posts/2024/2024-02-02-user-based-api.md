@@ -1,8 +1,8 @@
 ---
 date: 2024-02-02T10:09:59Z
-lastmod: 2024-02-02T16:22:33Z
+lastmod: 2024-02-02T19:55:44Z
 title: User-based API announcement
-permalink: /announces/user-based-api/
+permalink: /upcoming/user-based-api/
 author: Rodolfo Berrios
 summary: Rolling from V4.1.0
 image: /photos/2024/brigitta-schneiter-hXXRLtTxXCU-unsplash.jpg
