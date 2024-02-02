@@ -6,7 +6,7 @@ author: Rodolfo Berrios
 summary: New subscription model
 image: /photos/2024/chevereto-ultimate-remix.png
 tags:
-  - news
+  - announcement
 ---
 
 Chevereto is changing on 2024-02-01 from a one-time payment per major version to a yearly license subscription. **Note:** License purchases made before 2024-02-01 won't require to purchase any extension during Chevereto V4 release cycle.
