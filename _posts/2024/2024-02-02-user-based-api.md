@@ -1,7 +1,7 @@
 ---
 date: 2024-02-02T10:09:59Z
-lastmod: 2024-02-02T19:55:44Z
-title: User-based API announcement
+lastmod: 2024-02-03T14:10:31Z
+title: User-based API
 permalink: /upcoming/user-based-api/
 author: Rodolfo Berrios
 summary: Rolling from V4.1.0
