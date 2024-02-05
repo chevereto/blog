@@ -1,6 +1,6 @@
 ---
 date: 2024-02-02T10:09:59Z
-lastmod: 2024-02-03T14:10:31Z
+lastmod: 2024-02-05T22:59:11Z
 title: User-based API
 permalink: /upcoming/user-based-api/
 author: Rodolfo Berrios
@@ -30,6 +30,6 @@ For Chevereto we can expect an extensible routing system thanks to [Router](http
 
 Chevereto is massive and this feature must be implemented progressively during V4.1’s lifecycle. It means that the API will be getting new endpoints in patch releases.
 
-User-based API will start rolling from V4.1.0 with the most wanted endpoints first (image upload, management, etc) and the goal is to mirror the current internal API during the 4.1 cycle.
+User-based API will start rolling from V4.1.0 with the most wanted endpoints first (image upload, management, etc) and the goal is to mirror the current internal API during the 4.X cycle.
 
 This new feature won’t affect the current public API at `/api` or the internal API at `/json` because the user-based API is being made from scratch, it is a different piece of software that I will magically wire with the old system. You don’t need to worry a thing.
