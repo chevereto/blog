@@ -11,7 +11,7 @@ tags:
 
 > 👉 Check the all-new universal VPS provisioning [here](https://github.com/chevereto/vps).
 
-Deploying Chevereto in VPS has become trivial for [Linode](https://chv.to/linode) and [Vultr](https://chv.to/vultr) customers thanks to their application marketplaces. This made the deployment process a joy compared with the all-manual labor alternative. Thanks to these folks and their vision, more people can easy self-host their own Chevereto.
+Deploying Chevereto in VPS has become trivial for [Linode](https://chevereto.com/go/linode) and [Vultr](https://chevereto.com/go/vultr) customers thanks to their application marketplaces. This made the deployment process a joy compared with the all-manual labor alternative. Thanks to these folks and their vision, more people can easy self-host their own Chevereto.
 
 But not all providers offer application marketplace or welcome our application for inclusion. Reasons vary, from offering PHP software all the way up for being a Chilean-based company.
 

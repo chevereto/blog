@@ -52,7 +52,7 @@ We are now offering a [Pro Support](https://chevereto.com/support) layer which g
 
 Everybody welcome Chris ([DarkTexas](https://chevereto.com/community/members/darktexas-%F0%9F%A6%84.90242/)) as the new [Community mannager](https://chevereto.com/community/threads/new-community-manager-and-discord-server.14196/).
 
-👏 Thanks to Chris we now have the Discord channel available again. Come in and [join us](https://chv.to/discord)!
+👏 Thanks to Chris we now have the Discord channel available again. Come in and [join us](https://chevereto.com/go/discord)!
 
 ## RFC
 

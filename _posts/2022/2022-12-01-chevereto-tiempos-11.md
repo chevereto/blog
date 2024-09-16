@@ -13,7 +13,7 @@ This is the issue `#11` of **Chevereto Tiempos**, the monthly curated recap for 
 
 ## 🚀 Chevereto V4.0.5 released
 
-Release [4.0.5](https://releases.chevereto.com/4.X/4.0/4.0.5.html) fixes bugs reported to our [bug tracker](https://chv.to/bugs) and amend some odd naming issues. It is advised to upgrade to this release asap.
+Release [4.0.5](https://releases.chevereto.com/4.X/4.0/4.0.5.html) fixes bugs reported to our [bug tracker](https://chevereto.com/go/bugs) and amend some odd naming issues. It is advised to upgrade to this release asap.
 
 ## 👯‍♀️ New editions
 
@@ -33,7 +33,7 @@ You may want to read the blog post at [Rodolfo's blog](https://rodolfoberrios.co
 
 ## 👍 Requests for changes (RFC)
 
-We got the following [requests for changes](https://chv.to/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
+We got the following [requests for changes](https://chevereto.com/go/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
 
 - [User customizable listing options](https://chevereto.com/community/threads/user-customizable-listing-options.14715/)
 - [Search function for your own account](https://chevereto.com/community/threads/search-function-for-your-own-account.14717/)

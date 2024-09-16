@@ -74,7 +74,7 @@ Chevereto patch v4.0.6 fixes the following bugs:
 
 ## 👍 Requests for changes (RFC)
 
-We got the following [requests for changes](https://chv.to/rfc). Want to help us to improve the software? Share your thoughts and ideas.
+We got the following [requests for changes](https://chevereto.com/go/rfc). Want to help us to improve the software? Share your thoughts and ideas.
 
 - [Bringing back the links in dashboard](https://chevereto.com/community/threads/bringing-back-the-links-in-dashboard.14815/)
 - [Disable Moderation by Profile](https://chevereto.com/community/threads/disable-moderation-by-profile.14816/)

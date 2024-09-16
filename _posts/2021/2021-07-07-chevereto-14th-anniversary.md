@@ -22,7 +22,7 @@ Keep in mind that V4 is a progressive development release, while V3.20 is the pr
 
 ### Vultr partnership
 
-We are now providing Chevereto one-click application at the [Vultr Marketplace](https://chv.to/vultr)! The easiest way to get your Chevereto running on your premises, it will take you one-click and sixty seconds of your time to get Chevereto running.
+We are now providing Chevereto one-click application at the [Vultr Marketplace](https://chevereto.com/go/vultr)! The easiest way to get your Chevereto running on your premises, it will take you one-click and sixty seconds of your time to get Chevereto running.
 
 We are happy with Vultr and as a matter of fact we are migrating all our infra there. We will be dropping our existing providers for Vultr because we feel supported by them and the machines are a delight.
 

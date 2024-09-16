@@ -25,7 +25,7 @@ We are now encouraging all Chevereto V3 users to [upgrade](https://v4-docs.cheve
 
 ## 👍 Requests for changes (RFC)
 
-We got the following [requests for changes](https://chv.to/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
+We got the following [requests for changes](https://chevereto.com/go/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
 
 - [Login with magic link via email](https://chevereto.com/community/threads/login-with-magic-link-via-email.14482/)
 - [Separating types of content into different storages](https://chevereto.com/community/threads/separating-types-of-content-into-different-storages.14485/)

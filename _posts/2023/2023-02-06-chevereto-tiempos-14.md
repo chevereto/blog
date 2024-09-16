@@ -56,7 +56,7 @@ Chevereto patch v4.0.7 fixes the following bugs:
 
 ## 👍 Requests for changes (RFC)
 
-We got the following [requests for changes](https://chv.to/rfc). Want to suggest yours? Feel free to share your thoughts and ideas.
+We got the following [requests for changes](https://chevereto.com/go/rfc). Want to suggest yours? Feel free to share your thoughts and ideas.
 
 - [Add user location on profile](https://chevereto.com/community/threads/add-user-location-on-profile.14869/)
 - [Pin images in public mode](https://chevereto.com/community/threads/pin-images-in-public-mode.14872/)

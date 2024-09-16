@@ -36,7 +36,7 @@ We have just [announced](https://chevereto.com/community/threads/improved-docker
 
 ## 👍 Requests for changes (RFC)
 
-We got the following [requests for changes](https://chv.to/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
+We got the following [requests for changes](https://chevereto.com/go/rfc). Want to help us to improve the software? Share your thoughts and vote to drive development.
 
 - [About requests to use Onedrive or SharePoint as storage(关于使用Onedrive或SharePoint作为存储的请求)](https://chevereto.com/community/threads/about-requests-to-use-onedrive-or-sharepoint-as-storage-%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8onedrive%E6%88%96sharepoint%E4%BD%9C%E4%B8%BA%E5%AD%98%E5%82%A8%E7%9A%84%E8%AF%B7%E6%B1%82.14571/)
 - [New login provider: Login with Apple ID](https://chevereto.com/community/threads/new-login-provider-login-with-apple-id.14592/)
