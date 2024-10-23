@@ -98,6 +98,9 @@ module.exports = {
             canonical_base: 'https://blog.chevereto.com/',
             sort: (entries) => reverse(sortBy(entries, 'date')),
         },
-        smoothScroll: true
+        globalPagination: {
+            lengthPerPage: 9,
+        },
+        smoothScroll: false
     },
 }
