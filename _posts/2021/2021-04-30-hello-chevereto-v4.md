@@ -1,6 +1,6 @@
 ---
 date: 2021-04-30T23:28:34+00:00
-lastmod: 2023-07-11T00:31:45Z
+lastmod: 2024-12-07T13:02:31Z
 title: Hello, Chevereto V4
 author: Rodolfo Berrios
 summary: Next gen media sharing
@@ -37,20 +37,20 @@ _Read [Chevereto V4.0 &#8220;macanudo&#8221; announcement](https://chevereto.com
 
 ## Chevereto V4 release cycle
 
-All V4 releases will be named, released each 6 months. Chevereto V4.X updates will be about improving on everything and I'm confirming at most five revisions for this major version.
+Chevereto V4.X updates will be about improving on everything and I'm confirming at most five revisions for this major version.
 
-| Version                                                                                    | Code name   |
-| ------------------------------------------------------------------------------------------ | ----------- |
-| [4.0](https://chevereto.com/community/threads/chevereto-v4-0-macanudo-announcement.13188/) | macanudo    |
-| 4.1                                                                                        | pulento     |
-| [4.2](https://chevereto.com/community/threads/chevereto-v4-1-supremo-announcement.13221/)  | supremo     |
-| 4.3                                                                                        | *bacan*     |
-| 4.4                                                                                        | *magnifico* |
-| 4.5                                                                                        | *superior*  |
+| Version | Code name |
+| ------- | --------- |
+| 4.0     | macanudo  |
+| 4.1     | pulento   |
+| 4.2     | regio     |
+| 4.3     | *tbd*     |
+| 4.4     | *tbd*     |
+| 4.5     | *tbd*     |
 
 ## Chevereto V4 licensing
 
-Chevereto V4 will be available under Chevereto V4 licensing, this is you pay per [major release](https://semver.org/) without any time-based renewal fees. You get access to all updates within the purchased version (in this case, all V4.X cycle).
+Chevereto V4 will be available under Chevereto V4 licensing, this is you pay per major release without any time-based renewal fees. You get access to all updates within the purchased version (in this case, all V4.X cycle).
 
 One Chevereto V4 license is required per root domain, you can install it within all the sub-domains you may need.
 
