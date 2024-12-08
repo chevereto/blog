@@ -38,7 +38,7 @@ Chevereto Lite is the perfect next step for those using the free edition, adding
 
 ## Who is Chevereto Lite for?
 
-Chevereto Lite is ideal for individuals and small projects looking to test the waters of self-hosting or explore Chevereto’s ecosystem at a low cost. Whether you’re hosting personal media collections, creating a portfolio, or sharing memories with loved ones, Chevereto Lite delivers powerful tools at an unbeatable value.
+Chevereto Lite Edition is a lightweight, affordable media-sharing solution designed for communities of all types. Whether you’re hosting personal media collections, creating a portfolio, or sharing memories with loved ones, Chevereto Lite delivers powerful tools at an unbeatable value.
 
 ## Ready to try?
 
