@@ -53,6 +53,7 @@ module.exports = {
         ],
     ],
     themeConfig: {
+        domain: 'https://blog.chevereto.com',
         pwa: false,
         authors: [
             {
@@ -87,6 +88,7 @@ module.exports = {
         sitemap: {
             hostname: 'https://blog.chevereto.com/'
         },
+
         // comment: {
         //   service: 'disqus',
         //   shortname: 'demowebsite',
