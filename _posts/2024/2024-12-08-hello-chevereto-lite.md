@@ -7,6 +7,7 @@ summary: Introducing new edition
 image: /photos/2024/pexels-minan1398-793012.jpg
 tags:
   - news
+  - lite
 ---
 
 We’re thrilled to unveil **Chevereto Lite**, the most affordable way to enjoy Chevereto’s reliable and private media hosting. This new edition is tailored for individuals and projects that need straightforward tools to host and share photos and videos without unnecessary complexities.

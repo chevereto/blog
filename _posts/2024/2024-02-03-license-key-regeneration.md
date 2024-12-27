@@ -7,6 +7,7 @@ summary: Protecting your keys
 image: /photos/2024/marek-piwnicki-t9AKq7vFYlc-unsplash.jpg
 tags:
   - announcement
+  - license
 ---
 
 Chevereto customers can now protect their licenses with license key re-generation. Go to [license](https://chevereto.com/panel/license) and try for yourself, regenerate your license keys on-the-fly.

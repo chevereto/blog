@@ -8,9 +8,10 @@ summary: Rolling from V4.1.0
 image: /photos/2024/brigitta-schneiter-hXXRLtTxXCU-unsplash.jpg
 tags:
   - upcoming
+  - api
 ---
 
-The user-based API refers to [Chevereto API V4](https://v4-docs.chevereto.com/developer/api/api-v4) and will enable new ways for interacting with Chevereto as it begins to evolve into a headless API which will enable to programmatically do **everything** Chevereto related like image uploading, managing albums, configuring settings and more.
+The user-based API refers to Chevereto API V4 and will enable new ways for interacting with Chevereto as it begins to evolve into a headless API which will enable to programmatically do **everything** Chevereto related like image uploading, managing albums, configuring settings and more.
 
 ## What it means
 
