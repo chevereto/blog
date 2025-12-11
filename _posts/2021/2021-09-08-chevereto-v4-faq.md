@@ -12,17 +12,17 @@ Chevereto V4 is around the corner and while this release has caught the attentio
 
 We want to address these concerns in this entry, but if we miss something you can ask in the [community announcement](https://chevereto.com/community/threads/chevereto-v4-faq.13752/). If you aren't a customer refer to our [contact page](https://chevereto.com/contact).
 
-## 🚀 When it will be released?
+## When it will be released?
 
 Chevereto **V4.0.0.beta.1** will be released on 2021-09-30. Production release (V4.0.0) will be available between 2021-12 ~ 2022-03. Note that V4.0.0 beta may get extended as needed to ship safe software.
 
-## 🤔 Can I use beta in production?
+## Can I use beta in production?
 
 You shouldn't. Use it under your own risk.
 
 Chevereto V4.0 beta is for testing purposes and to iterate the system design based on user feedback. It will take a while to get V4.0 beta usable as our focus at this stage is to detect system compatibility issues inherent of a system which run on-premises. We will help our beta users when encountering issues, but we won't include support for beta issues affecting production systems.
 
-## 👑 How to get access to it?
+## How to get access to it?
 
 ### New purchases
 
