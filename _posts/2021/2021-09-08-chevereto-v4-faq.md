@@ -37,36 +37,36 @@ There's a special offering until 2021-12-31: License purchase includes (1) V3 li
 
 License redeem and upgrade options will be available at [chevereto.com/panel/license](https://chevereto.com/panel/license) until 2021-12-31.
 
-## 🤑 How many licenses I will require?
+## How many licenses I will require?
 
 One license per root-domain as `domain.com`.
 
 **Note:** We won't enforce domain license binding until we ship the production grade releases.
 
-## 🏖 Where can I see a demo?
+## Where can I see a demo?
 
 There's no online demo for V4 at this time, we will notify when that happens. Take a peek on the [raw footage](https://www.youtube.com/watch?v=5rQ0DeO1T_g) to get an early preview.
 
-## 🤖 Which are the system requirements?
+## Which are the system requirements?
 
 Chevereto V4 inherits all the [Chevereto V3 requirements](https://v3-docs.chevereto.com/setup/server/requirements.html) but under PHP 8.0.
 
-## 📦 How to install V4?
+## How to install V4?
 
 Refer to [V4 Installation instructions](https://v4-docs.chevereto.com/application/installing/installation.htmll).
 
-## 🆙 How to upgrade my V3 installation?
+## How to upgrade my V3 installation?
 
 Upgrade from V3.20 will be available after releasing the production grade releases starting  with V4.0.0.
 
 **Note:** Chevereto V4.0 uses the same database and public upload paths as V3.20.
 
-## 🔗 What about domain license binding?
+## What about domain license binding?
 
 It works similar to how DKIM signs email delivery.
 
 We will provide you instructions to configure your DNS records to make your domain eligible to interact with our service API. You will require to indicate the IP(s) needed to query our API.
 
-## 🕵️‍♂️ Will it be DRM signed?
+## Will it be DRM signed?
 
 No, Chevereto V4 won't be DRM signed. There won't be any license-footprint in the Chevereto V4 code as it will be distributed DRM free.
