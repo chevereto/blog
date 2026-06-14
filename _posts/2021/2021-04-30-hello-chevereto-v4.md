@@ -1,6 +1,6 @@
 ---
 date: 2021-04-30T23:28:34+00:00
-lastmod: 2024-12-07T13:02:31Z
+lastmod: 2026-06-14T16:58:39Z
 title: Hello, Chevereto V4
 author: Rodolfo Berrios
 summary: Next gen media sharing
@@ -44,9 +44,9 @@ Chevereto V4.X updates will be about improving on everything and I'm confirming 
 | 4.0     | macanudo  |
 | 4.1     | pulento   |
 | 4.2     | regio     |
-| 4.3     | *tbd*     |
-| 4.4     | *tbd*     |
-| 4.5     | *tbd*     |
+| 4.3     | entrador  |
+| 4.4     | vivaracho |
+| 4.5     | elevado   |
 
 ## Chevereto V4 licensing
 
