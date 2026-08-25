@@ -1,11 +1,12 @@
 ---
 date: 2026-05-27T15:21:07Z
 title: Chevereto Cloud Preview
-tags:
-    - cloud
 author: Rodolfo Berrios
 summary: Now open for public test preview
 image: /photos/2026/yue-wu-1M5CYAqXwaE-unsplash.jpg
+tags:
+  - news
+  - cloud
 ---
 
 We're excited to announce that **Chevereto Cloud** is now live and open for test preview at [cloudpreview.chevereto.com](https://cloudpreview.chevereto.com).
