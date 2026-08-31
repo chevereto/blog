@@ -1,6 +1,6 @@
 ---
 date: 2026-06-14T17:04:10Z
-lastmod: 2026-06-15T21:14:45Z
+lastmod: 2026-08-31T02:24:35Z
 title: Hello, Chevereto V5
 author: Rodolfo Berrios
 summary: Next gen user-based API
@@ -25,12 +25,7 @@ Chevereto V5 is a no-extra-cost upgrade for all existing subscribers (Chevereto 
 
 ## New release cycle
 
-Starting with Chevereto V5 we are changing our release cycle motto. We are going to break with the stagnation caused by long-term release cycles and we are going to launch **several major releases per year**, with our focus on more relevant features including but not limited to the following (this is not a definitive list):
-
-- V6: Subscriptions
-- V7: Feeds (RSS)
-- V8: Roles & Groups
-- V9: Comments
+Starting with Chevereto V5 we are changing our release cycle motto. We are going to break with the stagnation caused by long-term release cycles and we are aiming to launch **several major releases per year**.
 
 ---
 
