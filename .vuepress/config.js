@@ -38,10 +38,6 @@ module.exports = {
             name: 'msapplication-TileColor',
             content: '#000000'
         }],
-        ['meta', {
-            name: 'viewport',
-            content: 'width=device-width, initial-scale=1.0'
-        }],
         ['script', {
                 async: true,
                 src: 'https://www.googletagmanager.com/gtag/js?id=G-30H0V142P9',
@@ -52,8 +48,13 @@ module.exports = {
             ],
         ],
     ],
+    shouldPrefetch: () => false,
     themeConfig: {
         domain: 'https://blog.chevereto.com',
+        author: {
+            name: 'Chevereto Software',
+            twitter: '@chevereto',
+        },
         pwa: false,
         authors: [
             {
